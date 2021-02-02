@@ -2,4 +2,4 @@
 
 ##Informal Responses 
 
-1.[Blumenstock Response]
+1. [Blumenstock Response]
