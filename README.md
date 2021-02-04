@@ -2,4 +2,4 @@
 
 ## Informal Responses 
 
-1. [Blumenstock Response](https://github.com/sarah1xu/data150/main/blumenstock.html)
+1. [Blumenstock Response](https://sarah1xu.github.io/data150/blumentstock.html)
