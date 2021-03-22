@@ -8,3 +8,4 @@
 
 ## Formal Writing Assignment
 1. [Annotated Bibliography](https://sarah1xu.github.io/data150/assignment1.html)
+2. [Literature Review](https://sarah1xu.github.io/data150/assignment2.html)
