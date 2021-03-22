@@ -15,17 +15,24 @@ Through the improvement of a country, people are changing with it. 30 years ago 
 
 
 References
-ZHANG, X., & KANBUR, R. (2005). Spatial inequality in education and health care in China. 
-China Economic Review, 16(2), 189–204. https://doi.org/10.1016/j.chieco.2005.02.002
-Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in 
-Contemporary China. Chinese Sociological Review, 44(2), 31–51. 
-https://doi.org/10.2753/csa2162-0555440202
+
 Chan, K. W. (2013). China: internal migration. In The Encyclopedia of Global Human 
 Migration. Blackwell Publishing Ltd. 
 https://doi.org/10.1002/9781444351071.wbeghm124
+
 Gao, J., Liu, Y., Chen, J., & Cai, Y. (2019). Demystifying the geography of income inequality in 
 rural China: A transitional framework. Journal of Rural Studies. https://doi.org/10.1016/j.jrurstud.2019.01.010
+
+Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
+
+Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in 
+Contemporary China. Chinese Sociological Review, 44(2), 31–51. 
+https://doi.org/10.2753/csa2162-0555440202
+
 Zhang, D., Li, X., & Xue, J. (2015). Education Inequality between Rural and Urban Areas of the 
 People’s Republic of China, Migrants’ Children Education, and Some Implications. 
 Asian Development Review, 32(1), 196–224. https://doi.org/10.1162/adev_a_00042
-Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
+
+ZHANG, X., & KANBUR, R. (2005). Spatial inequality in education and health care in China. 
+China Economic Review, 16(2), 189–204. https://doi.org/10.1016/j.chieco.2005.02.002
+
