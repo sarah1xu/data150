@@ -23,6 +23,8 @@ https://doi.org/10.1002/9781444351071.wbeghm124
 Gao, J., Liu, Y., Chen, J., & Cai, Y. (2019). Demystifying the geography of income inequality in 
 rural China: A transitional framework. Journal of Rural Studies. https://doi.org/10.1016/j.jrurstud.2019.01.010
 
+Jain-Chandra, S., Khor, N., Mano, R., Schauer J., Wingender P., & Zhuang J. (2018). Inequality in China – Trends, Drivers and Policy Remedies. IMF Working Paper
+
 Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
 
 Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in 
