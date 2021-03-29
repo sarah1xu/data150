@@ -22,7 +22,7 @@ Even with migration, advanced education in big cities will always serve people o
   Between 1995 to 20000, the main flow of migration occurs between rural to urban (50.32 million) and between urban to urban regions (45.70 million) (Chan, K. W., 2013). The number from this migration data also includes what is called mobile migration, referring to people who live/work in a region but do not have their hukou in that area. Through the hukou system, we can also see the wealth gap. The wealthier family will meet qualifications to have the hukou in big cities, even if they do not, they are financially capable of sending their children to private institutions or even out of the country. This hukou system and regulation in China makes it harder to close the wealth gap, which ties in with many other gaps, such as the education gap and region gap. 
 
 # Inability to Afford for Education
-  Many data have already shown the difference and unequal among regions in China, the government has yet to take successful action against it. The government has failed to recognize the problem of inequality across China. The Enrollment rate in school has increased since 1980, enrollment of rural children has been in the 90% range (ZHANG, X., & KANBUR, R., 2005). The enrollment rate has increased, but government contribution to education expense has decreased (ZHANG, X., & KANBUR, R., 2005). The decreased in the government budget for education, created an increase in out-of-pocket cost. 
+__Many data have already shown the difference and unequal among regions in China, the government has yet to take successful action against it. The government has failed to recognize the problem of inequality across China. The Enrollment rate in school has increased since 1980, enrollment of rural children has been in the 90% range (ZHANG, X., & KANBUR, R., 2005). The enrollment rate has increased, but government contribution to education expense has decreased (ZHANG, X., & KANBUR, R., 2005). The decreased in the government budget for education, created an increase in out-of-pocket cost. 
   
   Government budget percentage in education has been decreasing between 1990 and 1998, however, education expenditure has been increasing (ZHANG, X., & KANBUR, R., 2005). With income unequally distributed, it’s difficult for many families to afford education. Families with lower income might have more difficulties in supporting their children to finish the 9-year basic educations (ZHANG, X., & KANBUR, R., 2005). Some children might choose to start working before they even finish the 9-year basic education. These children that choose to stop receiving an education will create an education gap among the same age populations.
 
@@ -46,20 +46,27 @@ Even with migration, advanced education in big cities will always serve people o
 # References
 ZHANG, X., & KANBUR, R. (2005). Spatial inequality in education and health care in China. 
 China Economic Review, 16(2), 189–204. https://doi.org/10.1016/j.chieco.2005.02.002
+
 Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in 
 Contemporary China. Chinese Sociological Review, 44(2), 31–51. 
 https://doi.org/10.2753/csa2162-0555440202
+
 Chan, K. W. (2013). China: internal migration. In The Encyclopedia of Global Human 
 Migration. Blackwell Publishing Ltd. 
 https://doi.org/10.1002/9781444351071.wbeghm124
+
 Gao, J., Liu, Y., Chen, J., & Cai, Y. (2019). Demystifying the geography of income inequality in 
 rural China: A transitional framework. Journal of Rural Studies. https://doi.org/10.1016/j.jrurstud.2019.01.010
+
 Textor, C. (2021). China: Cities with the highest gross domestic product (GDP) in 2019. https://www.statista.com/statistics/278939/chinese-cities-with-the-highest-gdp/
+
 Textor, C. (2020). China: Estimated population of first and new first tier cities in China in 2019, 
 by city. https://www.statista.com/statistics/992683/china-population-in-first-and-second- tier-cities-by-city/
+
 Zhang, D., Li, X., & Xue, J. (2015). Education Inequality between Rural and Urban Areas of the 
 People’s Republic of China, Migrants’ Children Education, and Some Implications. 
 Asian Development Review, 32(1), 196–224. https://doi.org/10.1162/adev_a_00042
+
 Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
 
 
