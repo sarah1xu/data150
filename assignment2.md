@@ -57,7 +57,7 @@ rural China: A transitional framework. Journal of Rural Studies. https://doi.org
 4. Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
 
 5. Textor, C. (2020). China: Estimated population of first and new first tier cities in China in 2019, 
-by city. https://www.statista.com/statistics/992683/china-population-in-first-and-second- tier-cities-by-city/
+by city. https://www.statista.com/statistics/992683/china-population-in-first-and-second-tier-cities-by-city/
 
 6. Textor, C. (2021). China: Cities with the highest gross domestic product (GDP) in 2019. https://www.statista.com/statistics/278939/chinese-cities-with-the-highest-gdp/
 
