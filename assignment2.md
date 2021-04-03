@@ -4,7 +4,7 @@
   The hukou system in China is the main thing holding China back from closing its education gap. Hukou, a system of household registration used in mainland China. This system controls the household size, household origin, and intra-country migration. Migration happens all around the globe, rather it’s to a different region or different country. The hukou system makes it extremely difficult to migrate even within the country. Even with China's new hukou system policy, making it easier to migrate into big cities in China, these regulations are favoring the top social class. Education inequality exists not only because of differences in resources, but also wealth, region, and government policies.
 
 # Changes to the Chinese Economy
-  China experienced a skyrocketing growth in its economy in the past 3 decades. The most obvious proof of China’s economic growth is shown through its GDP. From 1978 to 2013, China’s GDP increase on average of ten percent per year, making China now the second-largest economy in the world (Zhang, D., Li, X., & Xue, J., 2015). With a country’s economic growth, citizens’ life does have gotten better, such that people no longer have to worry about food shortages. However, economic growth does not mean everything in a country has gotten better, there is always a disadvantage side to an event. China’s GDP has grown, this does not mean all of China has advanced. When China’s GDP is broken down by cities, it is shown that in 2019, the main contributor to the high country’s GDP is from the 4 largest and developed cities, Beijing, Shanghai, Guangzhou, and Shenzhen (Textor, C., 2021). These four cities are known as beishangguangshen, meaning Beijing, Shanghai, Guangzhou, and Shenzhen. They are known to be advanced, where many people migrate to seek better opportunities, and these cities are known to have the highest real estate property prices. 
+  China experienced a skyrocketing growth in its economy in the past 3 decades. The most obvious proof of China’s economic growth is shown through its GDP. From 1978 to 2013, China’s GDP increase on average of ten percent per year, making China now the second-largest economy in the world (1). With a country’s economic growth, citizens’ life does have gotten better, such that people no longer have to worry about food shortages. However, economic growth does not mean everything in a country has gotten better, there is always a disadvantage side to an event. China’s GDP has grown, this does not mean all of China has advanced. When China’s GDP is broken down by cities, it is shown that in 2019, the main contributor to the high country’s GDP is from the 4 largest and developed cities, Beijing, Shanghai, Guangzhou, and Shenzhen (6). These four cities are known as beishangguangshen, meaning Beijing, Shanghai, Guangzhou, and Shenzhen. They are known to be advanced, where many people migrate to seek better opportunities, and these cities are known to have the highest real estate property prices. 
   
   With such rapid development in a country, some factors did not catch up to such rapid growth. Education access and opportunity are unequally distrusted throughout China, creating education inequality across the country (Jain-Chandra, S., Khor, N., Mano, R., Schauer J., Wingender P., & Zhuang J., 2018). Data from 2010 compared China with major emerging markets and major advanced economics. The data shows that China has the highest percentage difference Urban-Rural gap, regional gap, and wealth gap among adults between the ages 25 and 29 (Jain-Chandra, S., Khor, N., Mano, R., Schauer J., Wingender P., & Zhuang J., 2018).  Even in such high GDP country, there is much inequality that has risen within the everyday citizens’ community. 
 
@@ -44,30 +44,31 @@ Even with migration, advanced education in big cities will always serve people o
 
 
 # References
-ZHANG, X., & KANBUR, R. (2005). Spatial inequality in education and health care in China. 
+1. ZHANG, X., & KANBUR, R. (2005). Spatial inequality in education and health care in China. 
 China Economic Review, 16(2), 189–204. https://doi.org/10.1016/j.chieco.2005.02.002
 
-Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in 
+2. Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in 
 Contemporary China. Chinese Sociological Review, 44(2), 31–51. 
 https://doi.org/10.2753/csa2162-0555440202
 
-Chan, K. W. (2013). China: internal migration. In The Encyclopedia of Global Human 
+3. Chan, K. W. (2013). China: internal migration. In The Encyclopedia of Global Human 
 Migration. Blackwell Publishing Ltd. 
 https://doi.org/10.1002/9781444351071.wbeghm124
 
-Gao, J., Liu, Y., Chen, J., & Cai, Y. (2019). Demystifying the geography of income inequality in 
+4. Gao, J., Liu, Y., Chen, J., & Cai, Y. (2019). Demystifying the geography of income inequality in 
 rural China: A transitional framework. Journal of Rural Studies. https://doi.org/10.1016/j.jrurstud.2019.01.010
 
-Textor, C. (2021). China: Cities with the highest gross domestic product (GDP) in 2019. https://www.statista.com/statistics/278939/chinese-cities-with-the-highest-gdp/
+5. Jain-Chandra, S., Khor, N., Mano, R., Schauer, J., Wingender, P., &amp; Zhuang, J. (2018, June 5). Inequality in China – Trends, Drivers and Policy Remedies. International Monetary Fund. https://www.imf.org/en/Publications/WP/Issues/2018/06/05/Inequality-in-China-Trends-Drivers-and-Policy-Remedies-45878. 
+5. Textor, C. (2021). China: Cities with the highest gross domestic product (GDP) in 2019. https://www.statista.com/statistics/278939/chinese-cities-with-the-highest-gdp/
 
-Textor, C. (2020). China: Estimated population of first and new first tier cities in China in 2019, 
+6. Textor, C. (2020). China: Estimated population of first and new first tier cities in China in 2019, 
 by city. https://www.statista.com/statistics/992683/china-population-in-first-and-second- tier-cities-by-city/
 
-Zhang, D., Li, X., & Xue, J. (2015). Education Inequality between Rural and Urban Areas of the 
+7.Zhang, D., Li, X., & Xue, J. (2015). Education Inequality between Rural and Urban Areas of the 
 People’s Republic of China, Migrants’ Children Education, and Some Implications. 
 Asian Development Review, 32(1), 196–224. https://doi.org/10.1162/adev_a_00042
 
-Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
+8. Sen, Amartya, 1933-. ( 2000). Development as freedom. New York :Anchor Books
 
 
 
