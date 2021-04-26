@@ -1,3 +1,5 @@
+Word Count: 1943
+
 ## Introduction:
 
 In the past decades, we saw China’s growth and advancement, in urbanization as well as growth in the economy. There are things we recognize to this rapid growth, such as education. With some city urbanizing faster than other, the gap in education resources has gotten wider. Differences between regions affect the resources that these regions receive, affecting the education resources that children receive. Growth in the economy helped China in advancement and development, but such rapid growth is hurting citizens in China. The wealth gap, regional gap, migration gap, and education gap are all enlarged due to such rapid growth in China. 
@@ -32,7 +34,7 @@ Though the survey strategy used by CFPS is much better than RUMiC, CFPS does hav
 
 Both surveys provide good data in understanding rural residents, migration residents, and urban residents. Using one survey would not be enough to understand the difference in these groups. The use of both data allows for the other survey data to give information so that the other one lacks in its research.
 
-## Further consideration:
+## Further Consideration:
 
 The research so far has only focused on rural, rural to urban migration, and urban families, leaving the left-behind child. A left-behind child is a child who is left back in usually rural areas, many of which where the hukou is registered. These child-parent does not live with them, the parents would be working in different cities, rather it’s a rural or urban city. These children being left behind usually live with grandparents or other close family members. Many families have forced this separation due to unfreedom. Parent has no choice but to go somewhere to work to help support the family finically, or some are because the children hukou does not allow them to attend school in where the parent work. Further research can be done on how the strict hukou system in China has impacted individuals in China.
 
