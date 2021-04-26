@@ -1,6 +1,6 @@
 Word Count: 1943
 
-## Introduction:
+ ## The Issue:
 
 In the past decades, we saw China’s growth and advancement, in urbanization as well as growth in the economy. There are things we recognize to this rapid growth, such as education. With some city urbanizing faster than other, the gap in education resources has gotten wider. Differences between regions affect the resources that these regions receive, affecting the education resources that children receive. Growth in the economy helped China in advancement and development, but such rapid growth is hurting citizens in China. The wealth gap, regional gap, migration gap, and education gap are all enlarged due to such rapid growth in China. 
 
