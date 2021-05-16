@@ -11,3 +11,4 @@
 2. [Literature Review](https://sarah1xu.github.io/data150/assignment2.html)
 3. [Assignments 3](https://sarah1xu.github.io/data150/assignments3.html)
 4. [Presentation PPT](https://sarah1xu.github.io/data150/Final.pptx)
+5. [Research Proposal](https://sarah1xu.github.io/data150/final.html)
