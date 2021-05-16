@@ -27,3 +27,4 @@ Countless factors can stop an individual from receiving education, some can be i
 1.	“GDP (Current US$).” The World Bank, data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=1961&amp;most_recent_value_desc=true&amp;start=1960.
 2.	Textor, C. (2021). China: Cities with the highest gross domestic product (GDP) in 2019. https://www.statista.com/statistics/278939/chinese-cities-with-the-highest-gdp/
 3.	Wu, X. (2011). The Household Registration System and Rural-Urban Educational Inequality in Contemporary China. Chinese Sociological Review, 44(2), 31–51. https://doi.org/10.2753/csa2162-0555440202
+
